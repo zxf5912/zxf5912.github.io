@@ -8,7 +8,7 @@
       <link href="/2023/02/27/NewTest/"/>
       <url>/2023/02/27/NewTest/</url>
       
-        <content type="html"><![CDATA[<p>测试一下图片</p><p><img src="/public/img/math.jpg" alt="这是图片" title="Math"></p><p>测试一下代码块</p><pre><code>import numpy as npimport pandas as pdprint(&quot;Hello World!&quot;)</code></pre><p>测试一下命名的链接</p><p>这是一个链接 <a href="https://markdown.com.cn/" title="最好的markdown教程">Markdown语法</a>。</p><p>测试一下普通链接<br><a href="https://www.baidu.com/">https://www.baidu.com</a></p>]]></content>
+        <content type="html"><![CDATA[<p>测试一下图片</p><p><img src="https://pic1.zhimg.com/v2-38fb5e712e543cbb3a4b1e3a5fa7930c_1440w.jpg?source=172ae18b" alt="这是图片" title="Math"></p><p>测试一下代码块</p><pre><code>import numpy as npimport pandas as pdprint(&quot;Hello World!&quot;)</code></pre><p>测试一下命名的链接</p><p>这是一个链接 <a href="https://markdown.com.cn/" title="最好的markdown教程">Markdown语法</a>。</p><p>测试一下普通链接<br><a href="https://www.baidu.com/">https://www.baidu.com</a></p>]]></content>
       
       
       <categories>
